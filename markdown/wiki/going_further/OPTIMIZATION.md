@@ -8,5 +8,8 @@ OptiFine, previously known as Optimine and OptiFog; is a Minecraft modification 
 ### Getting (and installing) OptiFine
 - Go to the official OptiFine website; [optifine.net](https://optifine.net).
 - Depending on what Minecraft version you mainly use, get the specific OptiFine for it. Let's say; I play 1.12.2, so I'll get the latest 1.12.2 OptiFine available.
-
+- Open Amethyst, and tap on 'Execute .jar'.
+- A file browser should open. Navigate to where you downloaded OptiFine to and tap on it.
+- Continue with the onscreen instructions.
+- Upon completion, A new OptiFine profile should appear for you to use!
 
